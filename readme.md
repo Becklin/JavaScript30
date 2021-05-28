@@ -14,10 +14,10 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 | Drum kit | [note](https://github.com/Becklin/JavaScript30/wiki/Day1) | [demo](https://codepen.io/beckyenwen/pen/oNZZeVZ) | &check; |
 |Js and CSS Clock | [note](https://github.com/Becklin/JavaScript30/wiki/Day2) |[demo](https://codepen.io/beckyenwen/pen/oNZwzZK) |&check;|
 |CSS Variables | [note](https://github.com/Becklin/JavaScript30/wiki/Day3) |[demo](https://codepen.io/beckyenwen/pen/qBrXMYg) |&check;|
-|Array Cardio Day 1| [note](https://github.com/Becklin/JavaScript30/wiki/Day4) |[demo]() | |
+|Array Cardio Day 1| [note](https://github.com/Becklin/JavaScript30/wiki/Day4) ||&check;|
 |Flex Panel Gallery| [note](https://github.com/Becklin/JavaScript30/wiki/Day5) |[demo]() | |
 |Type Ahead| [note](https://github.com/Becklin/JavaScript30/wiki/Day6) |[demo]() | |
-|Array Cardio Day 2| [note](https://github.com/Becklin/JavaScript30/wiki/Day7) |[demo]() | |
+|Array Cardio Day 2| [note](https://github.com/Becklin/JavaScript30/wiki/Day7) ||&check;|
 |Fun with HTML5 Canvas| [note](https://github.com/Becklin/JavaScript30/wiki/Day8) |[demo]() | |
 |Dev Tools Domination| [note](https://github.com/Becklin/JavaScript30/wiki/Day9) |[demo]() | |
 |Hold Shift and Check Checkboxes| [note](https://github.com/Becklin/JavaScript30/wiki/Day10) |[demo]() | |
