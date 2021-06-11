@@ -20,7 +20,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 |Array Cardio Day 2| [note](https://github.com/Becklin/JavaScript30/wiki/Day7) ||&check;|
 |Fun with HTML5 Canvas| [note](https://github.com/Becklin/JavaScript30/wiki/Day8) |[demo](https://codepen.io/beckyenwen/pen/MWpGZmZ) |&check;|
 |Dev Tools Domination| [note](https://github.com/Becklin/JavaScript30/wiki/Day9) |[demo](https://codepen.io/beckyenwen/pen/MWpXovo) |&check;|
-|Hold Shift and Check Checkboxes| [note](https://github.com/Becklin/JavaScript30/wiki/Day10) |[demo]() | |
+|Hold Shift and Check Checkboxes| [note](https://github.com/Becklin/JavaScript30/wiki/Day10) |[demo](https://codepen.io/beckyenwen/pen/bGqmdbW) ||
 |Custom Video Player| [note](https://github.com/Becklin/JavaScript30/wiki/Day11) |[demo]() | |
 |Key Sequence Detection| [note](https://github.com/Becklin/JavaScript30/wiki/Day12) |[demo]() | |
 |Slide in on Scroll| [note](https://github.com/Becklin/JavaScript30/wiki/Day13) |[demo]() | |
